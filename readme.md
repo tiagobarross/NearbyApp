@@ -1,13 +1,9 @@
-<h1 align="center"> Nearby App </h1>
+<h1 align="center"> 📍 Nearby - Benefits Club </h1>
 
 <p align="center">
-Receba benefícios com Nearby, aplicativo mobile com cupons de estabelecimentos próximos a você
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -17,23 +13,38 @@ Receba benefícios com Nearby, aplicativo mobile com cupons de estabelecimentos 
 <br>
 
 <p align="center">
-  <img alt="projeto nearby" src=".github/preview.jpg" width="100%">
+  <img alt="project nearby" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🛠 Technologies  
+- **React Native**  
+- **Expo**  
+- **TypeScript**  
+- **TailwindCSS**  
+- **Firebase**  
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 📌 About  
+**Nearby** is a mobile application designed to connect users with nearby partner establishments, offering exclusive discount coupons.  
+With a modern and user-friendly interface, users can easily discover new places and enjoy special deals.
 
-- React Native
-- Framework Expo
-- Node JS
-- Prisma
-- Git e Github
+## 🚀 How to Run  
 
-## 💻 Projeto
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/tiagobarross/NearbyApp.git
 
-Nearby é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
+2. Navigate to the project folder
+    ```bash
+    cd NearbyApp
+
+3. Install dependencies 
+    ```bash
+    npm install
+
+4. Start development server
+    ```bash
+    npx expo start
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT License.
